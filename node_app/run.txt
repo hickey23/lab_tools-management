@@ -1,0 +1,2 @@
+npm run client 启动前端项目
+npm run server启动后端项目
